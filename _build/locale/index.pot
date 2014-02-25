@@ -1,0 +1,48 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2014, Tai
+# This file is distributed under the same license as the sphinx test package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx test 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-25 14:34+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:7
+# 301c02de6b0e41f3b7cfc9bd353ef3ef
+msgid "Welcome to sphinx test's documentation!"
+msgstr ""
+
+#: ../../index.rst:9
+# 50c7e8487fd547cda987137827775325
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:17
+# 4cac5e2e387e45479de53f1e05b8288a
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:19
+# 331fe86f91cf42b89b8a1f6c17e94c6f
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:20
+# c8e7aa83e2ab49b4b3ed0aab29fe111f
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:21
+# ed1bf3d4c7784656beaefbda76860295
+msgid ":ref:`search`"
+msgstr ""
+

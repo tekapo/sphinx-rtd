@@ -1,0 +1,38 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sphinx test 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-25 14:34+0900\n"
+"PO-Revision-Date: 2014-02-25 14:35+0900\n"
+"Last-Translator: JOTAKI, Taisuke <tekapo@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: Poedit 1.6.4\n"
+
+#: ../../index.rst:7
+msgid "Welcome to sphinx test's documentation!"
+msgstr "sphinx テストドキュメントへようこそ!"
+
+#: ../../index.rst:9
+msgid "Contents:"
+msgstr ""
+
+#: ../../index.rst:17
+msgid "Indices and tables"
+msgstr ""
+
+#: ../../index.rst:19
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../index.rst:20
+msgid ":ref:`modindex`"
+msgstr ""
+
+#: ../../index.rst:21
+msgid ":ref:`search`"
+msgstr ""
