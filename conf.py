@@ -59,6 +59,7 @@ release = '0.1'
 # for a list of supported languages.
 # language = None
 language = 'ja'
+
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
 #today = ''
