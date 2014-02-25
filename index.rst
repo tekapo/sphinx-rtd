@@ -13,7 +13,7 @@ Contents:
 
 
 
-Indices and tables
+インデックスとテーブル
 ==================
 
 * :ref:`genindex`
