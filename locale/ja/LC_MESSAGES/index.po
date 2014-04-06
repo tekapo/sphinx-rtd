@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: sphinx test 0.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-25 14:34+0900\n"
-"PO-Revision-Date: 2014-02-25 15:31+0900\n"
+"PO-Revision-Date: 2014-04-06 11:40+0900\n"
 "Last-Translator: JOTAKI, Taisuke <tekapo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -23,16 +23,16 @@ msgstr "コンテンツ:"
 
 #: ../../index.rst:17
 msgid "Indices and tables"
-msgstr ""
+msgstr "インデックスとテーブル"
 
 #: ../../index.rst:19
 msgid ":ref:`genindex`"
-msgstr ""
+msgstr ":ref:`genindex`"
 
 #: ../../index.rst:20
 msgid ":ref:`modindex`"
-msgstr ""
+msgstr ":ref:`modindex`"
 
 #: ../../index.rst:21
 msgid ":ref:`search`"
-msgstr ""
+msgstr ":ref:`search`"
